@@ -1,0 +1,31 @@
+C:\Users\Casaloti\OneDrive - Douglas College\CSIS\Assignment 1\SalaryProjectionGuiApp\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Casaloti\OneDrive - Douglas College\CSIS\Assignment 1\SalaryProjectionGuiApp\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Casaloti\OneDrive - Douglas College\CSIS\Assignment 1\SalaryProjectionGuiApp\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Casaloti\OneDrive - Douglas College\CSIS\Assignment 1\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.Form1.resources
+C:\Users\Casaloti\OneDrive - Douglas College\CSIS\Assignment 1\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\Casaloti\OneDrive - Douglas College\CSIS\Assignment 1\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+C:\Users\Casaloti\OneDrive - Douglas College\CSIS\Assignment 1\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Casaloti\OneDrive - Douglas College\CSIS\Assignment 1\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Casaloti\OneDrive - Douglas College\CSIS\Assignment 1\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\fcasa\OneDrive\DouglasCollege\CSIS\Assignments\Assignment 1\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\fcasa\OneDrive\DouglasCollege\CSIS\Assignments\Assignment 1\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.Form1.resources
+C:\Users\fcasa\OneDrive\DouglasCollege\CSIS\Assignments\Assignment 1\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\fcasa\OneDrive\DouglasCollege\CSIS\Assignments\Assignment 1\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+C:\Users\fcasa\OneDrive\DouglasCollege\CSIS\Assignments\Assignment 1\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\fcasa\OneDrive\DouglasCollege\CSIS\Assignments\Assignment 1\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\fcasa\OneDrive\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 1\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\fcasa\OneDrive\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 1\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.Form1.resources
+C:\Users\fcasa\OneDrive\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 1\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\fcasa\OneDrive\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 1\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+C:\Users\fcasa\OneDrive\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 1\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\fcasa\OneDrive\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 1\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.pdb
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.Form1.resources
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.exe
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\SalaryProjectionGuiApp\Assignment1\obj\Debug\Assignment1.pdb
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\SalaryProjectionGuiApp\Assignment1\bin\Debug\Assignment1.exe.config
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\SalaryProjectionGuiApp\Assignment1\bin\Debug\Assignment1.exe
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\SalaryProjectionGuiApp\Assignment1\bin\Debug\Assignment1.pdb
